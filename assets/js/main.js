@@ -40,6 +40,8 @@ const app = Vue.createApp({
       answer: {
         stage1: [
           false,
+          false,
+          false,
         ],
         stage2: [
           false, // 2-1
